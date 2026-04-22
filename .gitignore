@@ -1,0 +1,10 @@
+# Ignore local build and test artifacts
+local_test
+local_test.exe
+local_test.cpp
+*.o
+*.obj
+*.exe
+*.out
+*.log
+.DS_Store
